@@ -1,0 +1,43 @@
+#hora{
+    width: 125px;
+    background-color: blue;
+    height: 10px;
+    
+    position: absolute;
+    top: 250px;
+    left: 125px;
+    transform-origin: 125px center;
+    
+
+}
+#minuto{
+    width: 175px;
+    background-color: rgb(29, 170, 11);
+    height: 6px;
+    position: absolute;
+    top: 250px;
+    left: 75px;
+    transform-origin: 175px center;
+
+
+}
+#segundos{
+    width: 250px;
+    background-color: rgb(255, 0, 0);
+    height: 4px;
+position: absolute;
+    top: 250px;
+    left: 0px;
+    transform-origin:250px center;
+    
+}
+div{
+    border-radius: 5px;
+    
+}
+body{
+    background-image: url('bg.png');
+    background-repeat: no-repeat;
+    width: 500PX;
+    height: 500PX;
+}
