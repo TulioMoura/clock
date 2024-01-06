@@ -35,9 +35,12 @@ div{
     border-radius: 5px;
     
 }
-body{
-    background-image: url('bg.png');
-    background-repeat: no-repeat;
-    width: 500PX;
-    height: 500PX;
+
+
+#teste{
+    background-color:violet;
+    width:200px;
+    height:200px;
+    border: 2px solid blue;
+    border-radius: 100px;
 }
